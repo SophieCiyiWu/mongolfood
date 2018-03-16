@@ -17,6 +17,21 @@ h4.lisbonne {
     opacity: 0.45;
     }
 
+h4.lima {
+    position: absolute;
+    bottom: 360px;
+    left: 30px;
+    color:peru;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 60px;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    opacity: 0.45;
+        }
+
 h4.newyork {
 position: absolute;
 bottom: 280px;
