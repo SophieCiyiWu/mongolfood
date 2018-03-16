@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<title>Shanghai</title>
+<link href="mystyle.css" type="text/css" rel="stylesheet">
+<P style="text-align:center"> <img src="./logo.jpg" style="width: 140px; height: 117px";>
+    <div class="container">
+            <img class = "bg" src="./shanghai.png">
+                    <h4 class="bangkok">Shanghai</h4>
+                </div>
+<h2 style="text-align:center; font-size:40px">Brunchs</h2>
+    <table align="center" style="font-size:18px">
+            <tr>
+              <td><p class = "restaurant">Xingmu</th>
+              <td><p class = "restaurant">Café Liang</th>
+            </tr>
+            
+    
+            <tr>
+            <td style="height: 2px"><p class = "adresse">No.210 Taikang Road, Huangpu District, Shanghai, Chine, 200000</td>
+            <td style="height: 2px"><p class = "adresse">1218 Middle Yan'an Lu, West Nanjing Lu, Shanghai, Chine, 200000</td>
+            </tr>
+            <tr>
+              <td><img class="image" src="./shanghaixingmu.jpg"> </td>
+              <td><img class="image" src="./shanghaicafeliang.jpg"></td>
+            </tr>
+            <br/>
+            <tr>
+            <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+            <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                    <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+            </tr>
+            <tr>
+              <th><p class = "restaurant">TaoYuan Village</th>
+              <th><p class = "restaurant">Mr.Pancake Plus</th>
+            </tr>
+            <tr>
+            <td><p class = "adresse">405 Taizhou Lu, Jing'an District, Shanghai, Chine, 200021</td>
+            <td><p class = "adresse">877 Wuding Road, Shanghai, Chine, 200000</td>
+            </tr>
+            <tr>
+              <td><img class="image" src="./shanghaitaoyuan.jpg"> </td>
+              <td><img class="image" src="./shanghaipancake.jpg"></td>
+              </tr>
+              <br/>
+              <tr>
+              <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                  <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+              <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                      <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+              </tr></table><br/> <br/>
+              <h2 style="text-align:center; font-size:40px">Dîners</h2>
+    <table align="center" style="font-size:18px">
+            <tr>
+              <td><p class = "restaurant">Hakkasan</th>
+              <td><p class = "restaurant">The Commune Social</th>
+            </tr>
+          
+            <tr>
+            <td style="height: 2px"><p class="adresse">Waitan, District de Huangpu, Shanghai, Chine, 200000</td>
+            <td style="height: 2px"><p class="adresse">511 Jiangning Lu, Shanghai Shi, Chine, 200000</td>
+            </tr>
+            <tr>
+              <td><img class="image" src="./shanghaihakkasan.jpg"> </td>
+              <td><img class="image" src="./shanghaicommunesocial.jpg"></td>
+            </tr>
+            <br/>
+            <tr>
+            <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+            <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                    <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+            </tr>
+            <tr>
+              <th><p class = "restaurant">Jia Jia Tang Bao</th>
+              <th><p class = "restaurant">Table n°1</th>
+            </tr>
+            <tr>
+            <td><p class="adresse">90 Huanghe Rd, Huangpu Qu, Shanghai Shi, Chine, 200000</td>
+            <td><p class="adresse">1-3 Maojiayuan lu, Shanghai, Chine, 200000</td>
+            </tr>
+            <tr>
+              <td><img class="image" src="./shanghaijiajia.jpg"> </td>
+              <td><img class="image" src="./shanghai1.jpg"></td>
+              </tr>
+              <br/>
+              <tr>
+              <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                  <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+              <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                      <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+              </tr>
+              </table><br/><br/>
+              <h2 style="text-align:center; font-size:40px">Boire un verre</h2>
+    <table align="center" style="font-size:18px">
+            <tr>
+              <td><p class = "restaurant">Bar Rouge</th>
+              <td><p class = "restaurant">Barbarossa</th>
+            </tr>
+            
+    
+            <tr>
+            <td style="height: 2px"><p class = "adresse">18 Zhong Shan Dong Yi Lu, WaiTan, Huangpu Qu, Shanghai, Chine, 200000</td>
+            <td style="height: 2px"><p class = "adresse">11 Nanjing W Rd, NanJing XiLu, Huangpu Qu, Shanghai Shi, Chine, 200000</td>
+            </tr>
+            <tr>
+              <td><img class="image" src="./shanghaibarrouge.jpg"> </td>
+              <td><img class="image" src="./shanghaibarbarossa.jpg"></td>
+            </tr>
+            <br/>
+            <tr>
+            <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+            <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                    <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+            </tr>
+            <tr>
+              <th><p class = "restaurant">People 7</th>
+              <th><p class = "restaurant">Magpie Cosktail bar</th>
+            </tr>
+            <tr>
+            <td><p class = "adresse">805 Julu Rd, Jingan Qu, Shanghai Shi, Chine, 200000</td>
+            <td><p class = "adresse">District de Xuhui, Chine, 200000</td>
+            </tr>
+            <tr>
+              <td><img class="image" src="./shanghaipeople7.png"> </td>
+              <td><img class="image" src="shanghaimagpie.jpg"></td>
+              </tr>
+              <br/>
+              <tr>
+              <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                  <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+              <td><p class = "carte" style=" float:left; font-size:15px">Carte
+                      <p class = "reservation" style=" float:right; font-size:15px">Réservez</td>
+              </tr>
+              <br/>
+              
